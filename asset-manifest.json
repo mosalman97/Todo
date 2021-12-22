@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Todo/static/css/main.a060be09.chunk.css",
+    "main.js": "/Todo/static/js/main.3e2d2a67.chunk.js",
+    "main.js.map": "/Todo/static/js/main.3e2d2a67.chunk.js.map",
+    "runtime-main.js": "/Todo/static/js/runtime-main.472a4138.js",
+    "runtime-main.js.map": "/Todo/static/js/runtime-main.472a4138.js.map",
+    "static/js/2.5e5a552d.chunk.js": "/Todo/static/js/2.5e5a552d.chunk.js",
+    "static/js/2.5e5a552d.chunk.js.map": "/Todo/static/js/2.5e5a552d.chunk.js.map",
+    "static/js/3.84b09e01.chunk.js": "/Todo/static/js/3.84b09e01.chunk.js",
+    "static/js/3.84b09e01.chunk.js.map": "/Todo/static/js/3.84b09e01.chunk.js.map",
+    "index.html": "/Todo/index.html",
+    "static/css/main.a060be09.chunk.css.map": "/Todo/static/css/main.a060be09.chunk.css.map",
+    "static/js/2.5e5a552d.chunk.js.LICENSE.txt": "/Todo/static/js/2.5e5a552d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Todo/static/media/baloopaaji2-regular-webfont.6ee69e18.woff",
+    "static/media/delete.svg": "/Todo/static/media/delete.7c228be6.svg",
+    "static/media/plus.svg": "/Todo/static/media/plus.19bbb341.svg",
+    "static/media/revert.svg": "/Todo/static/media/revert.74d21442.svg",
+    "static/media/tick-green.svg": "/Todo/static/media/tick-green.b01db653.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.472a4138.js",
+    "static/js/2.5e5a552d.chunk.js",
+    "static/css/main.a060be09.chunk.css",
+    "static/js/main.3e2d2a67.chunk.js"
+  ]
+}
